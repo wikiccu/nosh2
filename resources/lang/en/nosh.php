@@ -357,7 +357,7 @@ return [
     // UMA
     "uma_url" => "Copy the link (URL) from your email or SMS that you received from your patient",
     "uma_error" => "Error",
-    "uma_error_text1" => "You have tried to login to this patient's personal electronic health record but you do not have sufficient priviledges to access it.",
+    "uma_error_text1" => "You have tried to log in to this patient's personal electronic health record but you do not have sufficient privileges to access it.",
     "uma_error_text2" => "There are several reasons for this.",
     "uma_error_text3" => "You were not given an invitation by this patient for access.",
     "uma_error_text4" => "Your invitation has expired.  If so, please contact",
