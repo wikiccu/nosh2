@@ -362,7 +362,7 @@ return [
     "uma_error_text3" => "You were not given an invitation by this patient for access.",
     "uma_error_text4" => "Your invitation has expired.  If so, please contact",
     "uma_error_text5" => "the patient directly.",
-    "uma_error_text6" => "If you previously had access, your acesss has been revoked by the patient.",
+    "uma_error_text6" => "If you previously had access, your access has been revoked by the patient.",
 
     // FHIR
     "openepic1" => "You do not have an open.epic client id registered.",
