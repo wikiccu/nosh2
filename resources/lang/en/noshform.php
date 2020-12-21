@@ -81,7 +81,7 @@ return [
     "allergies_inactive" => "Inactive",
     "allergies" => "Allergies",
     "allergy" => 'Allergy',
-    "allergies_message_action_encounter" => "Alleriges marked as reviewed for encounter",
+    "allergies_message_action_encounter" => "Allergies marked as reviewed for the encounter",
     "nkda" => "No known allergies",
     "new_allergy" => "New Allergy",
 
